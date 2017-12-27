@@ -6,6 +6,16 @@ Let's make a game!
       updated:27/12/2017
       version:1
 
+
+Layout
+	use default
+
+Buttons
+      *babyLlamaButton
+      name: Make a Baby Llama
+      desc: Click this to make a baby Llama
+      on click:yeild 1 babyllama
+
 Resources
    *coins
       name:Coins
