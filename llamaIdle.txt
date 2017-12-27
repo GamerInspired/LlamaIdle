@@ -2,17 +2,20 @@
 name:Llama Idle
 author:gamerinspired
 desc:test game
-
 created:27/12/2017
 updated:27/12/2017
 version:1
 
-//Buildings
+Resources
+   *coins
+      name:Coins
+      desc:Main Resource
+
 Buildings
-  *brownCow
-    name:Brown cow
-    desc:A big friendly cow that generates 1 milk per second.
-    cost:20 coins
-    on tick:give 1 milk
+   *babyllama
+      name:Baby Llama
+      desc:A baby Llama.
+      cost:1 coins
+      on tick:give 1 coin
 
 
