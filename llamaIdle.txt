@@ -26,10 +26,10 @@ Resources
 
 Buildings
    *llamaNursery
-      name:LlamaNursery
+      name:Llama Nursery
       desc:A baby Llama.
       cost:1 babyLlama
-      on tick:yield 1 babyLlama
+      on tick:yield 0.1 babyLlama
       unlocked
 
 
