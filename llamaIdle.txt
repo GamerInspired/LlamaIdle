@@ -1,12 +1,10 @@
 Let's make a game!
-
-//Info
-name:Llama Idle
-author:gamerinspired
-desc:test game
-created:27/12/2017
-updated:27/12/2017
-version:1
+      name:Llama Idle
+      author:gamerinspired
+      desc:test game
+      created:27/12/2017
+      updated:27/12/2017
+      version:1
 
 Resources
    *coins
