@@ -25,6 +25,13 @@ Resources
             desc:Main Resource
             show earned
 
+Shinies
+      *laser
+            name:Laser
+            on click:yield (random(10,100)) babyLlama
+            movement:anywhere fade bounce moveRandom
+            frequency:10
+
 Buildings
    *llamaNursery
       name:Llama Nursery
