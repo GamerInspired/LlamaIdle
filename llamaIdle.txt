@@ -7,28 +7,29 @@ Let's make a game!
       version:1
 
 Settings
+      building cost increase:115%
 
 Layout
 	use default
 
 Buttons
       *babyLlamaButton
-            name: Make a Baby Llama
-            desc: Click this to make a baby Llama
-            on click:yeild 1 babyllama
+            name: Build Llama Nursery
+            desc: Click this to build Llama Nursery
+            on click:yeild 1 llamaNursery
 
 Resources
-      *Coin|Coins
-            name:Coin|Coins
+      *babyLlama
+            name:Baby Llama
             desc:Main Resource
             show earned
 
 Buildings
-   *babyllama
-      name:Baby Llama
+   *llamaNursery
+      name:LlamaNursery
       desc:A baby Llama.
-      cost:1 coins
-      on tick:yield 1 coin
+      cost:1 babyLlama
+      on tick:yield 1 babyLlama
       unlocked
 
 
