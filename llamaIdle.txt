@@ -14,9 +14,9 @@ Layout
 
 Buttons
       *babyLlamaButton
-            name: Build Llama Nursery
-            desc: Click this to build Llama Nursery
-            on click:yeild 1 llamaNursery
+            name: Make Baby Llama
+            desc: Click this to make a Baby Llama
+            on click:yeild 1 babyLlama
 
 Resources
       *babyLlama
