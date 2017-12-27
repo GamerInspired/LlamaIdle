@@ -15,20 +15,4 @@ Buildings
     cost:20 coins
     on tick:give 1 milk
 
-//Resources
-Resources
-  *pie
-    name:Pie
-    desc:A delicious pie.
-
-//Upgrades
-Upgrades
-  *applePieRecipe
-    name:Apple pie recipe
-    desc:Unlocks the ability to make apple pies!
-    
-  *cherryPieRecipe
-    name:Cherry pie recipe
-    desc:Boy, you'll never guess!
-
 
