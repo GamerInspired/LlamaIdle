@@ -1,3 +1,5 @@
+Let's make a game!
+
 //Info
 name:Llama Idle
 author:gamerinspired
