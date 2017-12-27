@@ -39,6 +39,6 @@ Upgrades
 		desc: Twice as productive Llama Nursery
 		cost: 200 babyLlama
 		passive:multiply yield of babyLlama by 2
-		req:llamaNursery> 10
+		req:llamaNursery> 10:earned
 
 
