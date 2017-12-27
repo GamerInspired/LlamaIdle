@@ -38,7 +38,7 @@ Upgrades
             name: Double Decker Nursery
 		desc: Twice as productive Llama Nursery
 		cost: 200 babyLlama
-		passive:increase babyLlama yield of llamaNursery by *2
-		req:llamaNursery>10
+		passive:multiply yield of babyLlama by 2
+		req:llamaNursery> 10
 
 
