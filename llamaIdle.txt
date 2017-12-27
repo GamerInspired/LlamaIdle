@@ -29,8 +29,8 @@ Shinies
       *laser
             name:Laser
             on click:yield (random(10,100)) babyLlama
-            movement:anywhere randomAngle bounce moveRandom:75 pulse
-            frequency:10
+            movement:anywhere randomAngle bounce moveRandom:50 pulse
+            frequency:5
 
 Buildings
    *llamaNursery
