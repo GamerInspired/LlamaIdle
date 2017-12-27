@@ -8,6 +8,7 @@ Let's make a game!
 
 Settings
       building cost increase:125%
+      building cost refund:50%
 
 Layout
 	use default
@@ -31,5 +32,13 @@ Buildings
       cost:1 babyLlama
       on tick:yield 0.1 babyLlama
       unlocked
+
+Upgrades
+      *doubledeckerNursery
+            name: Double Decker Nursery
+		desc: Twice as productive Llama Nursery
+		cost: 200 babyLlama
+		passive:increase babyLlama yield of llamaNursery by *2
+		req:llamaNursery>10
 
 
