@@ -1,0 +1,11 @@
+https://github.com/GamerInspired/LlamaIdle/blob/master/llamaIdle.txt
+http://raw.githack.com/
+https://github.com/GamerInspired/LlamaIdle/blob/master/llamaIdle.txt
+https://goo.gl/
+http://orteil.dashnet.org/igm/help.html#theBasicsOfIdleGameMaker
+
+Game
+http://orteil.dashnet.org/igm/?g=https://raw.githack.com/GamerInspired/LlamaIdle/master/llamaIdle.txt
+
+Example
+https://pastebin.com/raw/9HYzgPWX
