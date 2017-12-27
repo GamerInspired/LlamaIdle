@@ -16,7 +16,7 @@ Buttons
       *babyLlamaButton
             name: Make Baby Llama
             desc: Click this to make a Baby Llama
-            on click:yeild 1 babyLlama
+            on click:yield 1 babyLlama
 
 Resources
       *babyLlama
