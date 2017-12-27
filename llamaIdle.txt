@@ -6,26 +6,29 @@ Let's make a game!
       updated:27/12/2017
       version:1
 
+Settings
 
 Layout
 	use default
 
 Buttons
       *babyLlamaButton
-      name: Make a Baby Llama
-      desc: Click this to make a baby Llama
-      on click:yeild 1 babyllama
+            name: Make a Baby Llama
+            desc: Click this to make a baby Llama
+            on click:yeild 1 babyllama
 
 Resources
-   *coins
-      name:Coins
-      desc:Main Resource
+      *Coin|Coins
+            name:Coin|Coins
+            desc:Main Resource
+            show earned
 
 Buildings
    *babyllama
       name:Baby Llama
       desc:A baby Llama.
       cost:1 coins
-      on tick:give 1 coin
+      on tick:yield 1 coin
+      unlocked
 
 
