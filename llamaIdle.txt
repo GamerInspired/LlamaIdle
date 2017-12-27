@@ -1,6 +1,6 @@
 Let's make a game!
       name:Llama Idle
-      author: gamerInspired
+      by:GamerInspired
       desc:test game
       created:27/12/2017
       updated:27/12/2017
